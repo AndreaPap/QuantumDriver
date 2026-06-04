@@ -1,0 +1,21 @@
+LTspice 26.0.2 for Windows
+Circuit: Z:\home\andrea\Progetti\DC_DC_Converter\Sim\QuantumDriver.net
+Start Time: Thu Jun  4 21:52:50 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 11.674 seconds.
+
+Files loaded:
+Z:\home\andrea\Progetti\DC_DC_Converter\Sim\QuantumDriver.net
+C:\users\andrea\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\users\andrea\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\users\andrea\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\users\andrea\AppData\Local\LTspice\lib\sub\ADA4891-1.lib
+
