@@ -1,13 +1,15 @@
 LTspice 26.0.2 for Windows
 Circuit: Z:\home\andrea\Progetti\QuantumDriver\Sim\QuantumDriver.net
-Start Time: Sat Jun  6 00:00:54 2026
+Start Time: Sat Jun  6 10:06:28 2026
 solver = Normal
 Maximum thread count: 8
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 55.408 seconds.
+
+Simulation stopped by user.
+Total elapsed time: 138.509 seconds.
 
 Files loaded:
 Z:\home\andrea\Progetti\QuantumDriver\Sim\QuantumDriver.net
